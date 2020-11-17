@@ -67,6 +67,12 @@ button:focus {outline:0;}
     border-radius: 3px;
 }
 
+textarea
+{
+    width: 100%;
+    height: 100%;
+}
+
 .section-ctnr
 {
     width: 100%;
@@ -162,6 +168,14 @@ button:focus {outline:0;}
     text-decoration: none;
 }
 
+.caps
+{
+    width: 20%;
+    height: 100%;
+    background: rgb(252, 252, 252);
+    text-decoration: none;
+}
+
 .wxc
 {
     width: 13%;
@@ -172,7 +186,7 @@ button:focus {outline:0;}
 
 .enter
 {
-    width: 30%;
+    width: 25%;
     height: 100%;
     background: rgb(252, 252, 252);
     text-decoration: none;
